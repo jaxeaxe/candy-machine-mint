@@ -292,7 +292,7 @@ const Home = (props: HomeProps) => {
           </p>
           <p>We plan to divide our Collection to 4 pieces. We hope this approach can give our collectors more of "FASHION" type of feeling about our Solboxers NFT.</p>
           <p> &nbsp;&nbsp;&nbsp;- October 160✔️   (Mint date: Oct-20th)</p>
-          <p> &nbsp;&nbsp;&nbsp;- November 160  (Mint date: TBA)</p>
+          <p> &nbsp;&nbsp;&nbsp;- November 160✔️  (Mint date: Nov-14th)</p>
           <p> &nbsp;&nbsp;&nbsp;- December 160  (Mint date: TBA)</p>
           <p> &nbsp;&nbsp;&nbsp;- Christmmas 19  (Mint date: TBA)</p>
           <p> &nbsp;&nbsp;&nbsp;Total=499</p>
@@ -300,7 +300,10 @@ const Home = (props: HomeProps) => {
 
        <div className="rarity">
        <h2 className="info"><p>Rarity</p></h2>
-          <p>Unique, Algorithmically generated, also there are some cool, custom made rare types of Boxers</p>
+          <p>Unique, Algorithmically generated, also there are some cool, custom made rare types of Boxers.
+            You can check detailed rarity our October + November 320 editions with link below. <a href="https://rarity.solboxers.xyz/SolBoxers" target="_blank" rel="noreferrer" ><p>Rarity section</p></a>.
+            Please consider our 499 boxers not fully complete when checking rarities.
+          </p>
           <img className="rare" max-height="100%" max-width="100%" src="rarity4.png"  alt="thugbirds"></img>
        </div>
        <div className="roadmap">
