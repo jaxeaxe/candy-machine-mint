@@ -71,6 +71,26 @@ code {
   -webkit-text-fill-color: transparent; 
   -moz-text-fill-color: transparent;
 }
+.me {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #8d0e98;
+  font-family: 'blox2';
+  font-size: 25px;
+  letter-spacing: 3px;
+
+}
+.de {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #1c80d3;
+  font-family: 'blox2';
+  font-size: 25px;
+  letter-spacing: 3px;
+
+}
 .second {
   height: 100vh;
   width: 100vw;
@@ -175,6 +195,9 @@ padding-right: 10%;
 line-height: 200%;
 }
 .u {
+display: flex;
+justify-content: center;
+z-index: 3;
 position: relative;
 margin-top: 20%;
 line-height: 200%;

@@ -47,6 +47,7 @@ const MintContainer = styled.div`
   bottom: 10%;
   display: flex;
   justify-content: center;
+  display: none;
   
 `; // add your styles here
 
@@ -227,6 +228,10 @@ const Home = (props: HomeProps) => {
             <img src="cube2.png"  alt="meebits"></img>
           </div>
 
+          <div className="u">
+            <a href="https://www.magiceden.io/marketplace/solboxers" target="_blank" rel="noreferrer" className="me"><p>mAgicEden</p></a>
+            <a href="https://digitaleyes.market/collections/solboxers" target="_blank" rel="noreferrer" className="de"><p>DigitalEyes</p></a>
+          </div>
         
         {wallet && (
           <p>&nbsp;&nbsp;Wallet: {shortenAddress(wallet.publicKey.toBase58() || "")}</p>
