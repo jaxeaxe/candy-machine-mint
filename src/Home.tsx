@@ -313,7 +313,7 @@ const Home = (props: HomeProps) => {
           <li>No initial royalty system, thus We will be able to be listed centralized NFT marketplaces such as FTX, Coinbase(as soon as they integrate Solana blockchain NFT's). Instead, Team will Create a Community wallet with 20% from sales for future Marketing activities that can increase Solboxers value.</li>
             <p> &nbsp;&nbsp;&nbsp;- Discord invite contest</p>
             <p> &nbsp;&nbsp;&nbsp;- Illustration art contest</p>
-            <p> &nbsp;&nbsp;&nbsp;- Cross giveaway with other projects on Solana</p>
+            <p> &nbsp;&nbsp;&nbsp;- Cross giveaways with other projects on Solana</p>
             <p> &nbsp;&nbsp;&nbsp;- Regular social media giveaways, campaign</p>
             <p> &nbsp;&nbsp;&nbsp;- Floor sweeping</p>
             <p> &nbsp;&nbsp;&nbsp;- Sending SOLBOXERS themed boxer-breif and bling-bling to person bought the most expensive SOLBOXER NFT from secondary markets.</p>
