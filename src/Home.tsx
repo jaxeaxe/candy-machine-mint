@@ -330,7 +330,7 @@ const Home = (props: HomeProps) => {
             <li>Addresses which participated SOLBOXERS minting process will get free airdrop of STT(SOLBOXERS TEAM TOKEN).</li>
             <li>STT token will not be listed on any exchanges, tsus has no value. STT holders get Exclusive access to acquire up to 20% share of future Decentralized projects that the team develops. (Sounds like a 🤥 promise hah? But anything could happen. Right?)</li>
             <p> &nbsp;</p>
-            <li>"BIKINI"s &nbsp;&nbsp; Every minting address of 499 SolBoxers get free airdrop of Bikini themed NFT's that can make owner looks HOT😎. Those Bikinis will be created with similar design of Solboxers, So they can be paired up!</li>
+            <li>"BIKINI"s &nbsp;&nbsp; Every minting address of 499 SolBoxers gets free airdrop of Bikini themed NFT's that can make owner looks HOT😎. Those Bikinis will be created with similar design of Solboxers, So they can be paired up!</li>
           </ul>
          </div>
 
